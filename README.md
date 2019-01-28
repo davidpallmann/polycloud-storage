@@ -1,7 +1,7 @@
 # polycloud-storage
-PolyCloud-api library for cloud storage.
+PolyCloud-API library for cloud storage.
 
-__PolyCloud-api__ is an API initiative that provides unified libraries for accessing AWS, Azure, and Google cloud platform and performing common operations. __PolyCloud-Storage__ is the PolyCloud-API library for cloud storage; that is, files and folders.
+__PolyCloud-API__ is an API initiative that provides unified libraries for accessing AWS, Azure, and Google cloud platform and performing common operations. __PolyCloud-Storage__ is the PolyCloud-API library for cloud storage; that is, files and folders.
 
 # .NET Framework Edition
 
