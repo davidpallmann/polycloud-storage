@@ -11,7 +11,7 @@ The .NET Framework edition of PolyCloud-Storage uses these nuget libraries:
 
 * Amazon Web Services: AWSSDK.S3 and dependent libraries
 * Microsoft Azure: Microsoft.Azure.Storage.Blob
-* Google Cloud Platform: Google.Cloud.Storage.v1, Google.Apis.Storage.v1 and dependent libraries
+* Google Cloud Platform: Google.Cloud.Storage.v1 and dependent libraries
 
 To build PolyCloud.Storage for .NET Framework you need Visual Studio 2017 Community or higher.
 
