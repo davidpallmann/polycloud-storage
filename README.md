@@ -7,12 +7,24 @@ __PolyCloud-API__ is an API initiative that provides unified libraries for acces
 
 # .NET Framework Edition
 
+The .NET Framework Edition uses .NET 4.6.1.
+
+## Dependencies
+
 The .NET Framework edition of PolyCloud-Storage uses these nuget libraries:
 
 * Amazon Web Services: AWSSDK.S3 and dependent libraries
 * Microsoft Azure: Microsoft.Azure.Storage.Blob
 * Google Cloud Platform: Google.Cloud.Storage.v1 and dependent libraries
 
+## Documentation
+
+[Read the API documentation](https://github.com/davidpallmann/polycloud-storage/wiki/API-Documentation---.NET-Framework)
+
+## Building
+
 To build PolyCloud.Storage for .NET Framework you need Visual Studio 2017 Community or higher.
 
-first check-in coming soon
+The source code includes these projects:
+* PolyCloud.Storage: the .NET Framework library
+* PolyCloud.Storage.Tests: unit tests that can be run in Visual Studio Test Explorer (before running, edit to supply your storage account credentials)
