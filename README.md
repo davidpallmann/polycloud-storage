@@ -32,3 +32,7 @@ To build PolyCloud.Storage for .NET Framework you need Visual Studio 2017 Commun
 The source code includes these projects:
 * PolyCloud.Storage: the .NET Framework library
 * PolyCloud.Storage.Tests: unit tests that can be run in Visual Studio Test Explorer (before running, edit to supply your storage account credentials)
+
+## Collaboration
+
+Collaborators are welcome: I'd like to see PolyCloud-API libraries come to exist for multiple development environments. If you're interested in helping out, please contact [David Pallmann](http://davidpallmann.com).
